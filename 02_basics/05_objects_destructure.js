@@ -86,8 +86,8 @@
 
 
 
-// use the website https://randomuser.me/ to chwck random api's
+// use the website https://randomuser.me/ to check random api's
 // ctrl+click on the link given below 
 // https://randomuser.me/ and copy all code then paste it on the website json formatter via link 
-// https://jsonformatter.org/ and click on format and beautify to see code text treee structure for better understading
+// https://jsonformatter.org/ and click on format and beautify to see code ,form, text ,tree structure for better understading
 
